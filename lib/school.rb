@@ -22,4 +22,3 @@ def sort
   @roster[grade] = name.sort
 end
 end
-end
